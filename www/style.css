@@ -1,0 +1,21 @@
+#meaning{
+  font-family: -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen-Sans,
+    Ubuntu,
+    Cantarell,
+    "Helvetica Neue";
+    width:100%;
+    font-size: 150%;
+}
+
+
+.input-group:has(input#word){
+  width: 80vw!important;
+}
+table{
+  font-size: 18px;
+  text-transform: capitalize;
+}
